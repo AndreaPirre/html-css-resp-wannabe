@@ -24,9 +24,10 @@
         margin: 5% 0;
     }
 
-    h3 {
+    h3, .right, .third  {
         margin-bottom:20px;
     }
+
     .grey {
         width: 100%;
     }
@@ -59,9 +60,7 @@
       margin-top: 20px;
     }
 
-.third {
-    margin-bottom: 30px;
-}
+
 
 
 }
